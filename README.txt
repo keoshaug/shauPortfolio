@@ -1,5 +1,5 @@
-#A Splendid Simplicity
-##Portfolio of Kevin O'Shaughnessy
+# A Splendid Simplicity
+## Portfolio of Kevin O'Shaughnessy
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-##My links
+## My links
 Linkedin: https://www.instagram.com/asplendidsimplicity/
 GitHub: https://github.com/keoshaug
 CodePen: https://codepen.io/KevinShau
@@ -19,7 +19,7 @@ YouTube: https://www.youtube.com/channel/UCMAYB5XVFCn6OSE1sTAnGgQ
 
 
 
-##Credits:
+## Credits:
 
 	Boilerplate: Solid State by HTML5 UP
 html5up.net | @ajlkn
